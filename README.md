@@ -8,7 +8,7 @@ Homepage:
 Restaurant List:
 ![Restaurants List](https://github.com/akelee/FoodApp_userJourneyWireframe/assets/80860409/32b748eb-52a7-444d-8699-0060a7fbe52e)
 
-Selected Restaurant Menu
+Selected Restaurant Menu:
 ![Selected Restaurant Menu](https://github.com/akelee/FoodApp_userJourneyWireframe/assets/80860409/ea3e0196-0d01-4296-a06d-f9a7bc6abb5d)
 
 Meal Description and Pricing Modal:
