@@ -1,4 +1,6 @@
-# FoodApp_userJourneyWireframe
+FoodApp user journey
+[Click here to interact with prototype screens](https://www.figma.com/file/hQerSBM3ulkXy2JnHO2SM7/Food-App-user-journey?type=design&node-id=0%3A1&mode=dev&t=eUk5leub3xOmgB0k-1).
+
 User journey:
 
 ![User Journey](https://github.com/akelee/FoodApp_userJourneyWireframe/assets/80860409/48003070-71a8-451a-816f-bceaec74ef9e)
