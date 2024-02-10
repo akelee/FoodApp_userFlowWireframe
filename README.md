@@ -1,4 +1,4 @@
-FoodApp user journey
+FoodApp user flow
 [Click here to interact with prototype screens](https://www.figma.com/file/hQerSBM3ulkXy2JnHO2SM7/Food-App-user-journey?type=design&node-id=0%3A1&mode=dev&t=eUk5leub3xOmgB0k-1).
 
 User journey:
